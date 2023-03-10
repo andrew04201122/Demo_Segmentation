@@ -5,7 +5,7 @@ demo_image.py is the demo code for image semantic segmentation.
 
 The other code for video semantic segmentation is in pages folder called "demo_video.py"
 
-Below is the origin README.md context.
+Below is the origin README.md context, which is come from https://github.com/CoinCheung/BiSeNet#bisenetv1--bisenetv2
 
 # BiSeNetV1 & BiSeNetV2
 
